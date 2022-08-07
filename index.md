@@ -1,7 +1,5 @@
 <!-- [<u><font size='4'>ABOUT</font></u>](#j1) &emsp;[<u><font size='4'>NEWS</font></u>](https://yuchen-sh.github.io/News) &emsp;[<u><font size='4'>COURSEWORK</font></u>](https://yuchen-sh.github.io/Coursework) &emsp;[<u><font size='4'>EXPERIENCES</font></u>](https://yuchen-sh.github.io/EXPERIENCES) &emsp;[<u><font size='4'>PUBLICATIONS</font></u>](https://yuchen-sh.github.io/Recent-Publications/) &emsp; [<u><font size='4'>PROJECTS</font></u>](https://yuchen-sh.github.io/Projects/) &emsp; [<u><font size='4'>AWARDS</font></u>](https://yuchen-sh.github.io/AWARDS) &emsp; [<u><font size='4'>SERVICES & SKILLS</font></u>](https://yuchen-sh.github.io/SERVICES-SKILLS) -->
 
-[<u><font size='4'>ABOUT</font></u>](#j1) &emsp;[<u><font size='4'>NEWS</font></u>](https://yuchen-sh.github.io/News) &emsp; [<u><font size='4'>RESEARCH</font></u>](https://yuchen-sh.github.io/Projects/) &emsp; [<u><font size='4'>PUBLICATIONS</font></u>](https://yuchen-sh.github.io/Recent-Publications/) &emsp; [<u><font size='4'>TEACHING</font></u>](https://yuchen-sh.github.io/Coursework) &emsp; [<u><font size='4'>EXPERIENCES</font></u>](https://yuchen-sh.github.io/EXPERIENCES) &emsp; [<u><font size='4'>SERVICES</font></u>](https://yuchen-sh.github.io/SERVICES-SKILLS)
-
 
 <!-- <table border="0" align="center">
      <tr>
@@ -25,45 +23,9 @@
      </tr>
 </table> -->
 
-<div style="display:flex;justify:space-between">
-       <!-- <p style="line-height: 40px;"> -->
-       <p>
-            &nbsp;<br />
-            <b><font face="Georgia" size='5'>YUCHEN LIU</font></b><br /><br />
-            <font size='4'>Ph.D.</font><br />
-            The Department of Computer Science<br />
-            Office: Room 3320, Engineering Building II<br />
-            Email: yuchen.liu at ncsu.edu, yuchen.liu.sn at gmail.com &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-       </p>
-      <img id="img1" src="/Yuchen_1.png" width="30%" height="30%" alt='' />
-</div>
-
-
-
-## <span id="j1"><font color='darkblue' face="Georgia" size='5'>ABOUT ME</font></span>
+## <span id="j1"><font color='darkblue' face="Georgia" size='5'>Networking & IntelligenCE (NICE) Lab</font></span>
 <!-- ## I am currently on the academic job market. -->
 
-I got my Ph.D. degree at [Georgia Institute of Technology](https://www.gatech.edu/), worked with [Dr. Douglas M. Blough](http://blough.ece.gatech.edu/) in the Critical Networking Lab. I am joining the Department of Computer Science at [North Carolina State University (NCSU)](https://www.ncsu.edu/) as a tenure-track Assistant Professor in 2022.
-               
-<!-- After getting the master degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) in China, I am currently a Ph.D. candidate at Georgia Tech in USA, and work with [Dr. Douglas M. Blough](http://blough.ece.gatech.edu/) on projects of maximizing performance for next-generation wireless networks, and developing network simulators. In addition, I was an instructor of an ECE undergraduate course, and responsible for lectures and supervising labs. -->
-
-<!-- My research interests lie in the areas of next-generation networks and systems, spanning wireless networking, mmWave communication, mobile computing, optimization and machine learning for networks and systems. I am also involved in the project of developing the open-source network simulator [ns-3](https://www.nsnam.org/). -->
-
-Rapid technological innovations are necessary to keep up with ever-accelerating human demands, and my long-term research goals are to increase the intelligence, capacity, and robustness of network systems that support emerging applications on mobile edges, and to enable the freedom experience via untethered and smart connectivity for work, entertainment, social connections, health, etc. Therefore, my research covers broad areas of networking, computing, and communication, spanning:
-
-  * **networking and systems** (wireless, new architecture, protocols, algorithms, and security) 
-  * **mobile computing** (infrastructure mobility, robotic networked systems)
-  * **machine learning for networking, sensing, and system design** (distributed/on-device learning, self-awareness system, network data analytics)
-  * **new communication paradigms** (mmWave, THz, nextG Wi-Fi) 
-  * **network optimization and resilience** (theory, hybrid design for large-scale network systems)
-  * **software and simulator design for computer networks** (programmable networking, open-source testbed, ns-3)
-
-**<font color='red'>I am looking for multiple PhDs / masters to work in the area of advanced networking and intelligent systems.</font>**
-
-If you are a prospective student interested in applying to [NCSU](https://www.ncsu.edu/) and working with me, please drop me an email at yuchen.liu at ncsu dot edu with your CV, and I will do my best to help in your journey once we have a commitment to each other.
-
-
-"*Challenge* brings its own *opportunity* and *solution*".
-
+TBD
 
 
