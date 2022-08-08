@@ -26,7 +26,7 @@
 ## <span id="j1"><font color='darkblue' face="Georgia" size='5'>Networking & IntelligenCE <br/> (NICE) Lab</font></span>
 <!-- ## I am currently on the academic job market. -->
 
-TBD
+Under construction.
 
 
 [<u><font size='4'>Back to Homepage</font></u>](https://yuchen-sh.github.io)
