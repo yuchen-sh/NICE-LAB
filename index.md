@@ -23,10 +23,11 @@
      </tr>
 </table> -->
 
-## <span id="j1"><font color='darkblue' face="Georgia" size='5'>Networking & IntelligenCE <br/> (NICE) Lab</font></span>
+## <span id="j1"><font color='darkblue' face="Georgia" size='5'>Networking & IntelligenCE (NICE) Lab<!--<br/> (NICE) Lab</font></span>-->
 <!-- ## I am currently on the academic job market. -->
+<i>"Fill the world with smart connectivity, through the power of networking and intelligence."</i>
 
-Under construction.
+(Under construction.)
 
 
 [<u><font size='4'>Back to Homepage</font></u>](https://yuchen-sh.github.io)
