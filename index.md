@@ -27,7 +27,7 @@
 <!-- ## I am currently on the academic job market. -->
 
 <!-- <i><span id="j1"><font color='' face="Georgia" size='4'> "Fill the world with smart connectivity, through the power of networking and intelligence."</font></span></i> -->
-<font size=5>*"Fill the world with smart connectivity, through the power of networking and intelligence."*</font>
+*"Fill the world with smart connectivity, through the power of networking and intelligence."*
 
 
 (Under construction.)
