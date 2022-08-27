@@ -29,9 +29,13 @@
 <!-- <i><span id="j1"><font color='' face="Georgia" size='4'> "Fill the world with smart connectivity, through the power of networking and intelligence."</font></span></i> -->
 *"Fill the world with smart connectivity, through the power of networking and intelligence."*
 
-## Perspective Students
+### Perspective Students
 
 I am always looking for self-motivated Ph.D. students who are interested in networking, wireless, and machine learning. Full financial support in the form of research assistantship (RA) or teaching assistantship (TA) will be offered for qualified students. If you are interested in working with us, please email me your CV, transcripts, and sample publications if any.
+
+### Current Students
+
+
 
 <!-- (Under construction.) -->
 
