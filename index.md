@@ -31,7 +31,7 @@
 
 ### Perspective Students
 
-I am always looking for self-motivated Ph.D. students who are interested in networking, wireless, and machine learning. Full financial support in the form of research assistantship (RA) or teaching assistantship (TA) will be offered for qualified students. If you are interested in working with us, please email me your CV, transcripts, and sample publications if any.
+I am always looking for self-motivated Ph.D. students who are interested in networking, wireless, and machine learning. Full financial support in the form of research assistantship (RA) or teaching assistantship (TA) will be offered for qualified students. If you are interested in working with us, please email me your CV and transcripts.
 
 ### Current Students
 
