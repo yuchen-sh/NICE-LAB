@@ -36,7 +36,7 @@ I am always looking for self-motivated Ph.D. students who are interested in netw
 ### Current Students
 
 * Zhizhen Li (Fall 2022-; M.S.: Georgia Institute of Technology)
-* Boyang Yan (Fall 2022-; M.S.: Royal Melbourne Institute of Technology, Australia; Microsoft Engineer)
+* Boyang Yan (Fall 2022-; M.S.: Royal Melbourne Institute of Technology; Microsoft Engineer)
 * Xuanhao Luo
 
 
