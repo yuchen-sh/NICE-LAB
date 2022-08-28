@@ -23,7 +23,7 @@
      </tr>
 </table> -->
 
-## <span id="j1"><font color='darkblue' face="Georgia" size='6'>Networking & IntelligenCE (NICE) Lab </font></span> <!--<br/> (NICE) Lab</font></span>-->
+## <span id="j1"><font color='darkblue' face="Georgia" size='6'><i>N</i>etworking & IntelligenCE (NICE) Lab </font></span> <!--<br/> (NICE) Lab</font></span>-->
 <!-- ## I am currently on the academic job market. -->
 
 <!-- <i><span id="j1"><font color='' face="Georgia" size='4'> "Fill the world with smart connectivity, through the power of networking and intelligence."</font></span></i> -->
