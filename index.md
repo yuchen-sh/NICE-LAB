@@ -33,7 +33,7 @@
 
 I am always looking for self-motivated Ph.D. students who are interested in networking, wireless, and machine learning. Full financial support in the form of research assistantship (RA) or teaching assistantship (TA) will be offered for qualified students. If you are interested in working with us, please email me your CV and transcripts.
 
-### NC State Univ. Graduate and Undergraduate Students
+### NC State Univ. Graduate/Undergraduate Students
 
 If you are interested in working with us, please send me an email with your current status, coursework, a paragraph of research interests and CV. Then I may reach out to you and set up a meeting to discuss if there is an available position or project for you.
 
