@@ -43,6 +43,7 @@ If you are interested in working with us, please send me an email with your curr
 * Zhizhen Li (Fall 2022-; M.S. in Georgia Institute of Technology)
 * Boyang Yan (Fall 2022-; M.S. in Royal Melbourne Institute of Technology; Microsoft Engineer)
 * Xuanhao Luo
+* Zifan Zhang
 
 
 <!-- (Under construction.) -->
