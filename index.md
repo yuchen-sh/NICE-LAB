@@ -40,11 +40,15 @@ If you are interested in working with us, please send me an email with your curr
 
 ### Current Students
 
+#### Ph.D. Students
 * [Zhizhen Li](https://www.linkedin.com/in/zhizhen-li-6367521b3/) <!-- (Fall 2022-; M.S. in Georgia Institute of Technology) -->
 * [Boyang Yan](https://www.yanboyang.com/) <!-- (Fall 2022-; M.S. in Royal Melbourne Institute of Technology; Microsoft Engineer) -->
-* Asrita Kuchibhotla
 * Xuanhao Luo
 * Zifan Zhang
+
+#### M.S. Students
+* Asrita Kuchibhotla
+* Zhijin Yang
 
 
 <!-- (Under construction.) -->
