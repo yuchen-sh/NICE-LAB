@@ -49,6 +49,7 @@ If you are interested in working with us, please send me an email with your curr
 #### M.S. Students
 * Asrita Kuchibhotla
 * Zhijin Yang
+* Jiayuan Huang
 
 
 <!-- (Under construction.) -->
