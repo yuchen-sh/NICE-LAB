@@ -45,6 +45,7 @@ If you are interested in working with us, please send me an email with your curr
 * [Boyang Yan](https://www.yanboyang.com/) <!-- (Fall 2022-; M.S. in Royal Melbourne Institute of Technology; Microsoft Engineer) -->
 * Xuanhao Luo
 * Zifan Zhang
+* Zhiyuan Peng (co-advised with Dr. DK Xu)
 
 #### M.S. Students
 * Asrita Kuchibhotla
