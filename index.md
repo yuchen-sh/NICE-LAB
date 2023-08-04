@@ -53,6 +53,7 @@ If you are interested in working with us, please send me an email with your curr
 
 #### Undergraduate and Pre-college Students
 * Sreesanth Adelli
+* Anirudh Janapati
 
 ### Alumni
 * Asrita Kuchibhotla (M.S., @Sweetsheet, NY)
