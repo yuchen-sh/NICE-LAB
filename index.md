@@ -48,7 +48,7 @@ I am fortunate to advise and work with these brilliant students who possess a vi
 #### Ph.D. Students
 * [Zhizhen Li](https://www.linkedin.com/in/zhizhen-li-6367521b3/) <!-- (Fall 2022-; M.S. in Georgia Institute of Technology) -->
 * Xuanhao Luo
-* Zifan Zhang
+* [Zifan Zhang](https://zifanzhang.com/)
 <!-- * Zhiyuan Peng (co-advised with Dr. DK Xu) -->
 
 #### M.S. Students
