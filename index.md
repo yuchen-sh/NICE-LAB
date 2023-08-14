@@ -40,7 +40,7 @@ If you are interested in working with us, please send me an email with your curr
 
 ### Current Students
 
-I am fortunate to advise and work with these brilliant students who possess a visionary outlook for the future. Go Wolfpack and Be NICE!
+I am fortunate to advise and work with these brilliant students who possess a visionary outlook for the future. <font color='red'>Go Wolfpack and Be NICE!</font>
 
 #### Ph.D. Students
 * [Zhizhen Li](https://www.linkedin.com/in/zhizhen-li-6367521b3/) <!-- (Fall 2022-; M.S. in Georgia Institute of Technology) -->
