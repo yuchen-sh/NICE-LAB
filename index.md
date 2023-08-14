@@ -39,6 +39,7 @@ If you are interested in working with us, please send me an email with your curr
 
 
 ### Current Students
+
 I am fortunate to advise and work with these brilliant students who possess a visionary outlook for the future. Go Wolfpack and Be NICE!
 
 #### Ph.D. Students
