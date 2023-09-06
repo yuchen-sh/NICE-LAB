@@ -54,6 +54,7 @@ I am fortunate to advise and work with these brilliant students who possess a vi
 * Zhiyuan Peng (co-advised with Dr. DK Xu)
 
 #### M.S. Students
+* Utkarsh Sharma
 * Zhijin Yang
 * [Jiayuan Huang](https://www.linkedin.com/in/jiayuan-huang-5b1548249/)
 * [Kai Gao](https://www.linkedin.com/in/kai-gao-30292321a/)
