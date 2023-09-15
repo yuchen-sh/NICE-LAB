@@ -44,19 +44,21 @@ I am fortunate to advise and work with these brilliant students who possess a vi
 
 <font color='red'>Go Wolfpack and Be NICER!</font>
 
-<!--  #### Postdoctoral Researcher -->
-<!-- * Zhiyuan Peng -->
+#### Postdoctoral Researcher
+* Zhiyuan Peng
 
 #### Ph.D. Students
 * [Zhizhen Li](https://www.linkedin.com/in/zhizhen-li-6367521b3/) <!-- (Fall 2022-; M.S. in Georgia Institute of Technology) -->
 * Xuanhao Luo
 * [Zifan Zhang](https://zifanzhang.com/)
-* Zhiyuan Peng (co-advised with Dr. DK Xu)
+* Zhijin Yang
+<!--* Zhiyuan Peng (co-advised with Dr. DK Xu)-->
 
 #### M.S. Students
 * Utkarsh Sharma
-* Zhijin Yang
+* Aboli Makarand Kulkarni
 * [Jiayuan Huang](https://www.linkedin.com/in/jiayuan-huang-5b1548249/)
+* Aditi Vakeel
 * [Kai Gao](https://www.linkedin.com/in/kai-gao-30292321a/)
 
 #### Undergraduate and Pre-college Students
