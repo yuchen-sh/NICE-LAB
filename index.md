@@ -65,7 +65,7 @@ I am fortunate to advise and work with these brilliant students who possess a vi
 * Jordan Miller
 * Nitesh Kanamarlapudi
 
-### K-12 Pre-college Students
+#### K-12 Pre-college Students
 * Sreesanth Adelli
 * Anirudh Janapati
 
