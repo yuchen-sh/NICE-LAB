@@ -61,7 +61,11 @@ I am fortunate to advise and work with these brilliant students who possess a vi
 * Aditi Vakeel
 * [Kai Gao](https://www.linkedin.com/in/kai-gao-30292321a/)
 
-#### Undergraduate and Pre-college Students
+#### Undergraduate Students
+* Jordan Miller
+* Nitesh Kanamarlapudi
+
+### K-12 Pre-college Students
 * Sreesanth Adelli
 * Anirudh Janapati
 
