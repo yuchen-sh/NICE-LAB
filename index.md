@@ -55,11 +55,12 @@ I am fortunate to advise and work with these brilliant students who possess a vi
 <!--* Zhiyuan Peng (co-advised with Dr. DK Xu)-->
 
 #### M.S. Students
-* Utkarsh Sharma
-* Aboli Makarand Kulkarni
 * [Jiayuan Huang](https://www.linkedin.com/in/jiayuan-huang-5b1548249/)
-* Aditi Vakeel
-* [Kai Gao](https://www.linkedin.com/in/kai-gao-30292321a/)
+* Utkarsh Sharma
+* Dongming Wu
+* Aboli Makarand Kulkarni
+* Jiewen Liu
+* Zikang Wang
 
 #### Undergraduate Students
 * Jordan Miller
@@ -71,6 +72,7 @@ I am fortunate to advise and work with these brilliant students who possess a vi
 
 ### Alumni
 * Asrita Kuchibhotla (M.S., @Sweetsheet, NY)
+* [Kai Gao](https://www.linkedin.com/in/kai-gao-30292321a/) (M.S., @Lenwell Digital)
 
 
 <!-- (Under construction.) -->
