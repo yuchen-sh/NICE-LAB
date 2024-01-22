@@ -65,11 +65,11 @@ I am fortunate to advise and work with these brilliant students who possess a vi
 #### Undergraduate Students
 * Jordan Miller
 * Nitesh Kanamarlapudi
-* Rohit Kota
 
 #### K-12 Pre-college Students
 * Sreesanth Adelli
 * Anirudh Janapati
+* Rohit Kota
 
 ### Alumni
 * Asrita Kuchibhotla (M.S., @Sweetsheet, NY)
