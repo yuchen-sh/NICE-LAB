@@ -71,6 +71,7 @@ I am fortunate to advise and work with these brilliant students who possess a vi
 * Sreesanth Adelli
 * Anirudh Janapati
 * Rohit Kota
+* Saiakhil Chilaka
 
 ### Alumni
 * Asrita Kuchibhotla (M.S., @Sweetsheet, NY)
