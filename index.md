@@ -52,13 +52,13 @@ I am fortunate to advise and work with these brilliant students who possess a vi
 * Xuanhao Luo
 * [Zifan Zhang](https://zifanzhang.com/)
 * Zhijin Yang
+* [Jiayuan Huang](https://www.linkedin.com/in/jiayuan-huang-5b1548249/)
 <!--* Zhiyuan Peng (co-advised with Dr. DK Xu)-->
 
 #### M.S. Students
-* [Jiayuan Huang](https://www.linkedin.com/in/jiayuan-huang-5b1548249/)
 * Utkarsh Sharma
+* Akruti Sinha
 * Dongming Wu
-* Aboli Makarand Kulkarni
 * Jiewen Liu
 * Zikang Wang
 
