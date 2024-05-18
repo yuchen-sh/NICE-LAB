@@ -42,7 +42,7 @@ If you are interested in working with us, please send me an email with your curr
 
 I am fortunate to advise and work with these brilliant students who possess a visionary outlook for the future. 
 
-<font color='red'>Go Wolfpack and Be NICER!</font>
+<font color='red'>Go Wolfpack and Be a NICER!</font>
 
 #### Postdoctoral Researcher
 * Zhiyuan Peng
@@ -59,6 +59,7 @@ I am fortunate to advise and work with these brilliant students who possess a vi
 * Utkarsh Sharma
 * Akruti Sinha
 * Dongming Wu
+* Shivesh Jha
 * Jiewen Liu
 * Zikang Wang
 
