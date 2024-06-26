@@ -69,10 +69,12 @@ I am fortunate to advise and work with these brilliant students who possess a vi
 * Krushi Bandam
 
 #### K-12 Pre-college Students
-* Sreesanth Adelli
+<!--* Sreesanth Adelli-->
 * Anirudh Janapati
 * Rohit Kota
 * Saiakhil Chilaka
+* Maulik Verma
+* Jaden Mu
 
 ### Alumni
 * Asrita Kuchibhotla (M.S., @Sweetsheet, NY)
