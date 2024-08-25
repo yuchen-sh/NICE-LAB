@@ -70,7 +70,6 @@ I am fortunate to advise and work with these brilliant students who possess a vi
 #### K-12 Pre-college Students
 <!--* Sreesanth Adelli-->
 * Rohit Kota
-<!-- * Saiakhil Chilaka -->
 * Maulik Verma
 * Jaden Mu
 
