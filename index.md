@@ -44,8 +44,8 @@ I am fortunate to advise and work with these brilliant students who possess a vi
 
 <font color='red'>Go Wolfpack and Be a NICER!</font>
 
-#### Postdoctoral Researcher
-* Zhiyuan Peng
+<!-- #### Postdoctoral Researcher
+* [Zhiyuan Peng](https://jerrypeng21cuhk.github.io/)-->
 
 #### Ph.D. Students
 * [Zhizhen Li](https://www.linkedin.com/in/zhizhen-li-6367521b3/) <!-- (Fall 2022-; M.S. in Georgia Institute of Technology) -->
@@ -61,7 +61,6 @@ I am fortunate to advise and work with these brilliant students who possess a vi
 * Dongming Wu
 * Shivesh Jha
 * Jiewen Liu
-* Zikang Wang
 
 #### Undergraduate Students
 * Jordan Miller
@@ -70,15 +69,19 @@ I am fortunate to advise and work with these brilliant students who possess a vi
 
 #### K-12 Pre-college Students
 <!--* Sreesanth Adelli-->
-* Anirudh Janapati
 * Rohit Kota
-* Saiakhil Chilaka
+<!-- * Saiakhil Chilaka -->
 * Maulik Verma
 * Jaden Mu
 
 ### Alumni
+* [Zhiyuan Peng](https://jerrypeng21cuhk.github.io/) (Ph.D., @Meta, CA)
 * Asrita Kuchibhotla (M.S., @Sweetsheet, NY)
 * [Kai Gao](https://www.linkedin.com/in/kai-gao-30292321a/) (M.S., @Lenwell Digital)
+* Zikang Wang (M.S., @NCSU)
+* Aboli Makarand Kulkarni (M.S., @NCSU)
+* Sreesanth Adelli (Pre-college)
+* Anirudh Janapati (Pre-college)
 
 
 <!-- (Under construction.) -->
