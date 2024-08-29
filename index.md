@@ -63,9 +63,12 @@ I am fortunate to advise and work with these brilliant students who possess a vi
 * Jiewen Liu
 
 #### Undergraduate Students
-* Jordan Miller
-* Nitesh Kanamarlapudi
-* Krushi Bandam
+* Aaron Nichols
+* Adnane El Hachami
+* Vadim Bondarenko
+* Adharsh Rajagopal
+* Adrian Chan
+
 
 #### K-12 Pre-college Students
 <!--* Sreesanth Adelli-->
@@ -79,6 +82,9 @@ I am fortunate to advise and work with these brilliant students who possess a vi
 * [Kai Gao](https://www.linkedin.com/in/kai-gao-30292321a/) (M.S., @Lenwell Digital)
 * Zikang Wang (M.S., @NCSU)
 * Aboli Makarand Kulkarni (M.S., @NCSU)
+* Jordan Miller (B.S., @NCSU)
+* Nitesh Kanamarlapudi (B.S., @NCSU)
+* Krushi Bandam (B.S., @NCSU)
 * Sreesanth Adelli (Pre-college)
 * Anirudh Janapati (Pre-college)
 
