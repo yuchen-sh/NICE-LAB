@@ -63,6 +63,7 @@ I am fortunate to advise and work with these brilliant students who possess a vi
 * Jiewen Liu
 
 #### Undergraduate Students
+* Everett Tucker
 * Aaron Nichols
 * Adnane El Hachami
 * Vadim Bondarenko
